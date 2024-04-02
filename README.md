@@ -28,7 +28,3 @@ The tournament provides insights into the effectiveness of different AI strategi
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify and expand upon this README to better suit your project's needs.
