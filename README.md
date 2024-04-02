@@ -1,7 +1,3 @@
-Sure, here's a template for your README.md file for the GitHub repository:
-
----
-
 # UnoWar AI Tournament
 
 ## Overview
